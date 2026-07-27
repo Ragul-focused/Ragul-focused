@@ -86,7 +86,15 @@
 <a href="https://github.com/Ragul-focused">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+<p align="center">
 
+<a href="https://leetcode.com/u/ragul2606/">
+
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</p>
 </p>
 
 ---
@@ -211,6 +219,7 @@ Libraries
   <img src="https://img.shields.io/badge/Goal-300%2B_Problems-blue?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Learning-Advanced_DSA-red?style=for-the-badge"/>
+  
 
 </p>
 
@@ -312,20 +321,6 @@ Dynamic Programming████░░░░░░░░░ 45%
 <img src="https://img.shields.io/badge/Graphs-red?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Dynamic_Programming-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌟 Visit My LeetCode Profile
-
-<p align="center">
-
-<a href="https://leetcode.com/u/ragul2606/">
-
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
 
 </p>
 
