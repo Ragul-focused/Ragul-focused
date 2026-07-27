@@ -20,7 +20,7 @@
 
 # 💫 About Me
 
-🎓 **B.Tech Artificial Intelligence & Machine Learning (3rd Year)**
+🎓 **B.Tech Artificial Intelligence & Machine Learning (4rd Year)**
 
 💡 Passionate about solving real-world problems using AI.
 
