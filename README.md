@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ragul</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=RAGUL&fontSize=65&color=0:00C9FF,50:7F5AF0,100:FF0080&stroke=ffffff&animation=fadeIn"/>
+</p>
 
 <h3 align="center">
 🚀 AI & Machine Learning Student | Generative AI Developer | FastAPI Backend Developer
