@@ -187,7 +187,149 @@ Libraries
 <img src="https://skillicons.dev/icons?i=anaconda"/>
 
 </p>
+<!-- ====================== LEETCODE SECTION ====================== -->
 
+<h2 align="center">
+  💻 LeetCode Universe
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=Data+Structures+%7C+Algorithms;Daily+Problem+Solver;Building+Strong+Problem+Solving+Skills;LeetCode+Journey+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ragul2606/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ragul-focused">
+    <img src="https://img.shields.io/badge/GitHub-Ragul--focused-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/DSA-Daily_Practice-success?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Goal-300%2B_Problems-blue?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Learning-Advanced_DSA-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 LeetCode Statistics
+
+<p align="center">
+
+<img width="480" src="https://leetcard.jacoblin.cool/ragul2606?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+---
+
+# 🚀 Coding Dashboard
+
+<p align="center">
+
+| 💡 Attribute | 🚀 Details |
+|--------------|------------|
+| 👨‍💻 Username | **ragul2606** |
+| 🎯 Goal | **300+ Problems** |
+| 🔥 Focus | **DSA + Competitive Programming** |
+| 💻 Platform | **LeetCode** |
+| 📚 Practice | **Daily** |
+| 🧠 Learning | **Algorithms & Optimization** |
+
+</p>
+
+---
+
+# 📈 DSA Roadmap
+
+```text
+Arrays             ██████████████ 95%
+
+Strings            ████████████░ 90%
+
+Linked List        ██████████░░░ 80%
+
+Stack              ███████████░░ 82%
+
+Queue              █████████░░░░ 75%
+
+Trees              ████████░░░░░ 70%
+
+Binary Search      ███████████░░ 85%
+
+Graphs             ██████░░░░░░░ 60%
+
+Heap               ██████░░░░░░░ 60%
+
+Greedy             ███████░░░░░░ 65%
+
+Backtracking       █████░░░░░░░░ 50%
+
+Dynamic Programming████░░░░░░░░░ 45%
+```
+
+---
+
+# 🏆 Current Mission
+
+```text
+🎯 Solve Problems Daily
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Learn One New Algorithm
+
+✅ Improve Problem Solving
+
+✅ Practice Time Complexity
+
+✅ Master Dynamic Programming
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Target
+300+ Problems
+
+```
+
+---
+
+# 💡 Favorite Topics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Arrays-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Strings-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Binary_Search-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Trees-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Graphs-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dynamic_Programming-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌟 Visit My LeetCode Profile
+
+<p align="center">
+
+<a href="https://leetcode.com/u/ragul2606/">
+
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</p>
+
+<!-- ====================== END LEETCODE SECTION ====================== -->
 ---
 
 # 📊 Skill Progress
