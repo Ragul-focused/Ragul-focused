@@ -288,14 +288,7 @@ Automation for beauty parlours
 ---
 
 # 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ragul-focused&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-focused&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<img src="https://github-readme-stats-two-jade-29.vercel.app/api/top-langs/?username=Ragul-focused&layout=compact&theme=tokyonight&hide_border=true">
 
 ---
 
@@ -309,16 +302,14 @@ Automation for beauty parlours
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Summary
 
-<p align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragul-focused&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ragul-focused&theme=tokyonight&no-frame=true&margin-w=15"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragul-focused&theme=tokyonight)
 
-</p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ragul-focused&theme=tokyonight)
 ---
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -332,42 +323,9 @@ Automation for beauty parlours
 # 🐍 Contribution Snake
 
 > Enable GitHub Actions to make this work.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@master
-
-        with:
-
-          github_user_name: Ragul-focused
-
-          svg_out_path: dist/github-contribution-grid-snake.svg
-```
-
-Then display it:
-
-```html
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ragul-focused/Ragul-focused/output/github-contribution-grid-snake.svg"/>
-
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/Ragul-focused/Ragul-focused/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-```
-
----
-
 # 💡 Random Dev Quote
 
 <p align="center">
